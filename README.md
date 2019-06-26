@@ -5,6 +5,8 @@
 <center><font size='4'>Key Laboratory of Information Storage System (School of Computer Science and Technology, Huazhong University of Science and Technology</font></center>
 <center><font size='4'> Shenzhen Institutes of Advanced Technology,Chinese Academy of Sciences,Shenzhen,China</font></center></td></tr></table>
 
+![img](https://github.com/huanggzx/SRAN/blob/master/images/SRAN.png)
+
 #Materials
 
 Paper: 
@@ -43,17 +45,18 @@ the superiority of our method on several images datasets.
 # Information Conduction Ways
 
 # Separable Residual Attetnion Blocks
-
+![img](https://github.com/huanggzx/SRAN/blob/master/images/SRAB.png)
 
 # Ablation Analysis
-
+![img](https://github.com/huanggzx/SRAN/blob/master/images/Ablation.png)
 
 #Results
 
 ![img](https://github.com/huanggzx/SRAN/blob/master/images/Results_1.png)
 ![img](https://github.com/huanggzx/SRAN/blob/master/images/Results_2.png)
-
+![img](https://github.com/huanggzx/SRAN/blob/master/images/Results.png)
 #Conclusion
+
 
 #Citation
 <code>
