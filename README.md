@@ -43,6 +43,7 @@ nism to deepen our networks. Experimental results demonstrate
 the superiority of our method on several images datasets.
 
 # Information Conduction Ways
+![img](https://github.com/huanggzx/SRAN/blob/master/images/SB.png)
 
 # Separable Residual Attetnion Blocks
 ![img](https://github.com/huanggzx/SRAN/blob/master/images/SRAB.png)
