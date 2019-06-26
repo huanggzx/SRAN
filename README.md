@@ -56,8 +56,6 @@ the superiority of our method on several images datasets.
 ![img](https://github.com/huanggzx/SRAN/blob/master/images/Results_1.png)
 ![img](https://github.com/huanggzx/SRAN/blob/master/images/Results_2.png)
 ![img](https://github.com/huanggzx/SRAN/blob/master/images/Results.png)
-# Conclusion
-
 
 # Citation
 <code>
