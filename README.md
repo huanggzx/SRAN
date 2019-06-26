@@ -1,13 +1,13 @@
 
-********Image Super-Resolution Using Deep Convolutional Networks********
-<br/>****Zhenxing Huang, Jincai Chen, Ping Lu, Zhanli Hu****
-<br/>****National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China****
-<br/>****Key Laboratory of Information Storage System (School of Computer Science and Technology, Huazhong University of Science and Technology****
-<br/>****Shenzhen Institutes of Advanced Technology,Chinese Academy of Sciences,Shenzhen,China****
+# Image Super-Resolution Using Deep Convolutional Networks
+<br/>**Zhenxing Huang, Jincai Chen, Ping Lu, Zhanli Hu**
+<br/>**National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China**
+<br/>**Key Laboratory of Information Storage System (School of Computer Science and Technology, Huazhong University of Science and Technology**
+<br/>**Shenzhen Institutes of Advanced Technology,Chinese Academy of Sciences,Shenzhen,China**
 
 ![img](https://github.com/huanggzx/SRAN/blob/master/images/SRAN.png)
 
-**Materials**
+# Materials
 
 Paper: 
 
@@ -15,7 +15,7 @@ Code:
 
 Results:
 
-#Abstract 
+# Abstract 
 
 Convolution neural network (CNN) has been largely
 applied to learn the mapping function between low resolution
@@ -50,15 +50,15 @@ the superiority of our method on several images datasets.
 # Ablation Analysis
 ![img](https://github.com/huanggzx/SRAN/blob/master/images/Ablation.png)
 
-#Results
+# Results
 
 ![img](https://github.com/huanggzx/SRAN/blob/master/images/Results_1.png)
 ![img](https://github.com/huanggzx/SRAN/blob/master/images/Results_2.png)
 ![img](https://github.com/huanggzx/SRAN/blob/master/images/Results.png)
-#Conclusion
+# Conclusion
 
 
-#Citation
+# Citation
 <code>
 @InProceedings{wang2019edvr,  
 &emsp;&emsp;&emsp;&emsp;         author = {Wang, Xintao and Chan, Kelvin C.K. and Yu, Ke and Dong, Chao and Loy, Chen Change},  
@@ -70,5 +70,5 @@ the superiority of our method on several images datasets.
 </code>
 
 
-#Concat 
+# Concat 
 If you have any question, please contact Zhenxing Huang at **huangzx@hust.edu.cn**.
