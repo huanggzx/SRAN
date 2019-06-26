@@ -49,6 +49,9 @@ the superiority of our method on several images datasets.
 # Ablation Analysis
 ![img](https://github.com/huanggzx/SRAN/blob/master/images/Ablation.png)
 
+# Visualization
+![img](https://github.com/huanggzx/SRAN/blob/master/images/Visual.png)
+
 # Results
 
 ![img](https://github.com/huanggzx/SRAN/blob/master/images/Results_1.png)
