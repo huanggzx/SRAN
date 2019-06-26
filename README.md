@@ -1,9 +1,9 @@
 
-<table><tr><td bgcolor=#D1EEEE><center><font size='8'>Image Super-Resolution Using Deep Convolutional Networks</font></center>
+<center><font size='8'>Image Super-Resolution Using Deep Convolutional Networks</font></center>
 <center><font size='4'><br/>Zhenxing Huang, Jincai Chen, Ping Lu, Zhanli Hu</font></center>
 <center><font size='4'><br/>National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China</font></center>
 <center><font size='4'>Key Laboratory of Information Storage System (School of Computer Science and Technology, Huazhong University of Science and Technology</font></center>
-<center><font size='4'> Shenzhen Institutes of Advanced Technology,Chinese Academy of Sciences,Shenzhen,China</font></center></td></tr></table>
+<center><font size='4'> Shenzhen Institutes of Advanced Technology,Chinese Academy of Sciences,Shenzhen,China</font></center>
 
 ![img](https://github.com/huanggzx/SRAN/blob/master/images/SRAN.png)
 
